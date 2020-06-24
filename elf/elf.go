@@ -31,8 +31,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/iovisor/gobpf/pkg/bpffs"
-	"github.com/iovisor/gobpf/pkg/cpuonline"
+	"github.com/habibiefaried/gobpf/pkg/bpffs"
+	"github.com/habibiefaried/gobpf/pkg/cpuonline"
 )
 
 /*
